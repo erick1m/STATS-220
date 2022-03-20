@@ -4,18 +4,19 @@
 ## Quick Introducution 
 I am a New Zealand born Korean that is in his second year studying Data Science in Auckland.
 
-## Meme
+## Meme Introduction
 With the ongoing Ukrainian invasion, the world has seen a immense increase in petrol prices.
-Despite the currently situation I decided to make a highhearted meme about petrol prices.
+With the petrol prices being all over the media, I decided to make a lighthearted meme about it.
 
+## The Meme
 
 ![my_meme](https://user-images.githubusercontent.com/100745215/158946733-4872d0ca-7117-4a43-8925-c6329ef4dafd.png)
 
 ## Meme Explanation
-The meme template I used was a basic two row and column set up, where in the first column are two photos and the second column is speech. 
-I decided to make my meme about petrol prices, as I am a person that heavily relies on my car to get from place to place. 
-Being a student, with limited funds, the steep increase in petrol price has had a huge toll on me.
-I used a photo of Elon Musk, as I thought there was a ironic aspect, being the owner of the biggest electrical motor company. 
+I used a basic meme template, which depicts two photos in the first column. The first photo shows the scandalous increase in petrol prices in New Zealand.
+The first comment on the right is a sarcastic view that petrol prices 
+
+
 
 ## R Code Used To Make The Meme
 ~~~r
