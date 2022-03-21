@@ -13,12 +13,12 @@ With the petrol prices being all over the media, I decided to make a lighthearte
 ![my_meme](https://user-images.githubusercontent.com/100745215/158946733-4872d0ca-7117-4a43-8925-c6329ef4dafd.png)
 
 ## Meme Explanation
-I used a basic *meme*  template, which depicts two photos in the first column with corresponding comments to the right. 
-The first photo shows the scandalous increase in petrol prices in New Zealand.
-The first comment on the right is a sarcastic view that petrol prices aren't as precipitous as the media makes it out to be. 
-The second photo used in this *meme*, is a photo of [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk), who is smoking cannabis.
-The photo of Mr. Musk was used in irony, as he is the founder and CEO of Tesla, the most dominant electric motor company in the world.
-The parallel comment made is to show that in fact that petrol prices are indeed "high" in New Zealand. 
+1. I used a basic *meme*  template, which depicts two photos in the first column with corresponding comments to the right. 
+2. The first photo shows the scandalous increase in petrol prices in New Zealand.
+3. The first comment on the right is a sarcastic view that petrol prices aren't as precipitous as the media makes it out to be. 
+4. The second photo used in this *meme*, is a photo of [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk), who is smoking cannabis.
+5. The photo of Mr. Musk was used in irony, as he is the founder and CEO of Tesla, the most dominant electric motor company in the world.
+6. The parallel comment made is to show that in fact that petrol prices are indeed "high" in New Zealand. 
 
 
 
